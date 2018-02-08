@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\population.o
+./debug\strings.o
+./debug\sint.o
+./debug\keyxfrm.o
+./debug\double.o
+./debug\distribs.o
+./debug\cockus.o
+./debug\bar.o
+./debug\moc_mainwindow.o
+);

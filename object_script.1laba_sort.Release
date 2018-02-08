@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\population.o
+./release\strings.o
+./release\sint.o
+./release\keyxfrm.o
+./release\double.o
+./release\distribs.o
+./release\cockus.o
+./release\bar.o
+./release\moc_mainwindow.o
+);
